@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @dlane13
-- 👀 I’m interested in a little bit of everything!
-- 🌱 I’m currently learning Java
-- 📫 How to reach me: 2023del@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I'm a Math and CS student!
+I'm a Math and CS Student at the University of Vermont. I'm familiar with Python and R, and I'm currently learning Java!
 
 <!---
 dlane13/dlane13 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
